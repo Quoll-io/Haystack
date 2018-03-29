@@ -1,6 +1,6 @@
 # Haystack
 
-## Current Stage: Early Bird Release (25% off $3)
+## Current Stage: Early Bird Release (25% off)
 
 ## Current Features:
 
