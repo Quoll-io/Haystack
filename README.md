@@ -1,6 +1,6 @@
 # Haystack
 
-## Current Stage: Early Bird Release (25% off)
+## Current Stage: Early Bird Release 
 
 ## Current Features:
 
@@ -13,8 +13,3 @@
 * HomeKit Page.
 * Public API.
 * Localisations.
-
-## Known Issues:
-
-* Adding more than 5 sections in one page renders any above 5 to be untouchable.
-
