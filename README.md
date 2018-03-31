@@ -1,7 +1,5 @@
 # Haystack
 
-## Current Stage: Early Bird Release 
-
 ## Current Features:
 
 * iOS 10 Control Center design.
