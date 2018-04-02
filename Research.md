@@ -1,4 +1,4 @@
-#iPhone 4"#
+iPhone 4
 
 **Content indentation: 17px**
 
@@ -8,7 +8,7 @@
 
 **Section size: 52px**
 
-##iPhone 4.7"
+iPhone 4.7"
 
 **Content indentation: 24px**
 
@@ -18,7 +18,7 @@
 
 **Section size: 60px**
 
-##iPhone 5.2"
+iPhone 5.2"
 
 **Content indentation: 24px**
 
